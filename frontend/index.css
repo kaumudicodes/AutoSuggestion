@@ -1,3 +1,24 @@
-h1{
-    colour : rgb(236, 24, 20);
+h1 {
+    color: rgb(40, 150, 152);
+}
+/*#home-card{
+    background-color: rgb(47, 227, 244);
+}*/
+#home-card{
+    text-align: center;
+    /*border: 3px;
+    border-color:blue;
+    border-style: solid;*/
+
+    border: 3px solid rgb(6, 30, 76);
+}
+#home-card
+{
+    #p2 {
+        color: rgb(6, 30, 76);
+    }
+}
+#home-card:hover {
+    background-color: rgb(47, 227, 244);
+    color: rgb(255, 255, 255);
 }
