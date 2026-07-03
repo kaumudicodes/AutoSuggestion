@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(40, 150, 152);
+    color: red;
 }
 /*#home-card{
     background-color: rgb(47, 227, 244);
@@ -10,15 +10,24 @@ h1 {
     border-color:blue;
     border-style: solid;*/
 
-    border: 3px solid rgb(6, 30, 76);
+    border: 3px solid brown;
 }
-#home-card
-{
-    #p2 {
-        color: rgb(6, 30, 76);
-    }
-}
+
 #home-card:hover {
     background-color: rgb(47, 227, 244);
     color: rgb(255, 255, 255);
+}
+#p2 {
+        color: rgb(194, 81, 81);
+    }
+#nav{
+    text-align: center;
+    background-color: violet;
+    height:25px;
+    padding-top:6px;
+}
+#nav{
+    margin: 0px, 5px;
+    text-decoration: none;
+    color:pink;
 }
